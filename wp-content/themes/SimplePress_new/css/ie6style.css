@@ -1,0 +1,6 @@
+.nav_top { display: none; }
+.nav_bottom { display: none; }
+#navwrap { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
+#featured .slider_shadow { height: 13px; overflow: hidden; display: block; }
+.blurbs_shadow, div.avatar, .thumb .shadow { background-repeat: no-repeat; }
+#search-bar #searchinput { padding-top: 8px; }

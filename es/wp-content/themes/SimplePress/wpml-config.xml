@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>
+		<key name="simplepress_date_format"/>
+		<key name="simplepress_quote_one"/>
+		<key name="simplepress_quote_two"/>
+		<key name="simplepress_strip"/>
+		<key name="simplepress_seo_home_titletext"/>
+		<key name="simplepress_seo_home_descriptiontext"/>
+		<key name="simplepress_seo_home_keywordstext"/>
+	</admin-texts>
+</wpml-config>

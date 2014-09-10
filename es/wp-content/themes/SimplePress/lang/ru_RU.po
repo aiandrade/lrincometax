@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SimplePress 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-02 15:27+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:19
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:19
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Коммент."
+
+#: ../comments.php:23 ../comments.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:37
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:63
+msgid "Submit Comment"
+msgstr "Оставить комментарий "
+
+#: ../comments.php:63
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../footer.php:3
+msgid "Designed by "
+msgstr "Дизайн"
+
+#: ../footer.php:3
+msgid "Powered by "
+msgstr "Разработано на CMS"
+
+#: ../functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../functions.php:188
+msgid "Fonts"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Header Font"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Body Font"
+msgstr ""
+
+#: ../header.php:43 ../epanel/custom_functions.php:434
+#: ../includes/breadcrumbs.php:3
+msgid "Home"
+msgstr "Главная"
+
+#: ../home.php:47 ../page-blog.php:83 ../includes/entry.php:31
+#: ../includes/entry.php:37 ../includes/featured.php:90
+#: ../includes/gallery.php:18
+msgid "read more"
+msgstr "далее"
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "by"
+msgstr " "
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "on"
+msgstr " "
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "in"
+msgstr "в"
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../page-blog.php:63 ../includes/postinfo.php:2 ../includes/postinfo.php:4
+msgid "comments"
+msgstr "коммент."
+
+#: ../page-blog.php:106 ../page-contact.php:152 ../page-full.php:36
+#: ../page-gallery.php:86 ../page-login.php:59 ../page-search.php:87
+#: ../page-sitemap.php:74 ../page-template-portfolio.php:175 ../page.php:30
+#: ../includes/single_blog.php:30 ../includes/single_gallery.php:23
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:107 ../page-contact.php:108
+msgid "Name"
+msgstr "Имя"
+
+#: ../page-contact.php:112 ../page-contact.php:113
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:117 ../page-contact.php:118
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:125
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:136 ../page-contact.php:137
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:142 ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:143 ../page-search.php:79
+#, fuzzy
+msgid "Submit"
+msgstr "Оставить комментарий "
+
+#: ../page-gallery.php:68 ../page-template-portfolio.php:127
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:69 ../page-template-portfolio.php:128
+#, fuzzy
+msgid "Read more"
+msgstr "далее"
+
+#: ../page-login.php:49
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:50
+msgid "Password"
+msgstr ""
+
+#: ../page-search.php:45
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:48
+msgid "search this site..."
+msgstr ""
+
+#: ../page-search.php:50
+#, fuzzy
+msgid "Posts"
+msgstr "Опубликовано"
+
+#: ../page-search.php:51 ../page-sitemap.php:45
+msgid "Pages"
+msgstr ""
+
+#: ../page-search.php:54
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:50
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:55
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:67
+msgid "Authors"
+msgstr ""
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr ""
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr ""
+
+#: ../epanel/core_functions.php:111
+msgid "General Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr ""
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr ""
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr ""
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr ""
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr ""
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr ""
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr ""
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr ""
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr ""
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1045
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+
+#: ../epanel/options_simplepress.php:166
+msgid "Google Fonts subsets"
+msgstr ""
+
+#: ../epanel/options_simplepress.php:170
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+
+#: ../epanel/options_simplepress.php:175
+msgid "Custom CSS"
+msgstr ""
+
+#: ../epanel/options_simplepress.php:179
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+#, fuzzy
+msgid "Content"
+msgstr "Коммент."
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+#, fuzzy
+msgid "Link"
+msgstr "в"
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+#, fuzzy
+msgid "Icon"
+msgstr " "
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+#, fuzzy
+msgid "Tab Content"
+msgstr "Один комментарий"
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:6
+msgid "Posts Tagged &quot;"
+msgstr "Посты с тэгами &quot;"
+
+#: ../includes/breadcrumbs.php:8 ../includes/breadcrumbs.php:10
+#: ../includes/breadcrumbs.php:12
+msgid "Posts made in"
+msgstr "Посты от"
+
+#: ../includes/breadcrumbs.php:14
+msgid "Search results for"
+msgstr "Результаты поиска по"
+
+#: ../includes/breadcrumbs.php:26
+msgid "Posts by "
+msgstr "Опубликовано"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или "
+"используйте меню для нахождения страницы."
+
+#: ../includes/functions/comments.php:14
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:24
+msgid "reply"
+msgstr "ответить"
+
+#: ../includes/functions/installation.php:1
+msgid "Read SimplePress Documentation"
+msgstr ""
+
+#~ msgid "You must be"
+#~ msgstr "Вы должны быть"
+
+#~ msgid "logged in"
+#~ msgstr "зарегистрированы"
+
+#~ msgid "to post a comment."
+#~ msgstr "чтобы комментировать."
+
+#~ msgid "Logged in as"
+#~ msgstr "Вы вошли как"
+
+#~ msgid "Log out &raquo;"
+#~ msgstr "Выйти &raquo;"
+
+#~ msgid "(required)"
+#~ msgstr "(обязательное поле)"
+
+#~ msgid "Mail (will not be published)"
+#~ msgstr "Email (не будет виден посетителям)"
+
+#~ msgid "Website"
+#~ msgstr "Сайт"

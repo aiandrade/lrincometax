@@ -1,0 +1,9 @@
+.banner span { background-image: url(images/green/slider-readmore-left.png); }
+.banner span a { background-image: url(images/green/slider-readmore-right.png); color: #fff; text-shadow: 1px 1px 0px #407521; }
+#navwrap { background-image: url(images/green/nav-bg.png); }
+.nav_top { background-image: url(images/green/nav-top.png); }
+.nav_bottom { background-image: url(images/green/nav-bottom.png); }
+.nav li ul { background-image: url(images/green/dropdown-bg.png); background-color: #6fb845;  border-left: 1px solid #5b9d36; border-right: 1px solid #5b9d36; border-bottom: 1px solid #5b9d36; }
+.nav li.current_page_item a, .nav li.current-menu-item a, .nav li.current-category-ancestor a, .nav li.current_page_ancestor a, .nav li.current-post-parent a { color: #dcf3cf;}
+.nav li a { color: #fff; text-shadow: 1px 1px 0px #407521;  }
+.nav li ul li ul { border-top: 1px solid #5b9d36; }

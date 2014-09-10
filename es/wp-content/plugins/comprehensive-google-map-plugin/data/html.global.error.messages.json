@@ -1,0 +1,14 @@
+{ "badAddresses" : "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Google found the following address(es) as NON-geographic and could not find them:<br /><br />[REPLACE]<br />Consider revising the address(es). Did you make a mistake when creating marker locations or did not provide a full geo-address? Alternatively use Google web to validate the address(es)",
+  "kml" : "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear blog/website owner,<br />Google returned the following error when trying to load KML file:<br /><br />[MSG] ([STATUS])",
+  "kmlDocInvalid" : "The KML file is not a valid KML, KMZ or GeoRSS document.",
+  "kmlFetchError" : "The KML file could not be fetched.",
+  "kmlLimits" : "The KML file exceeds the feature limits of KmlLayer.",
+  "kmlNotFound" : "The KML file could not be found. Most likely it is an invalid URL, or the document is not publicly available.",
+  "kmlRequestInvalid" : "The KmlLayer is invalid.",
+  "kmlTimedOut" : "The KML file could not be loaded within a reasonable amount of time.",
+  "kmlTooLarge" : "The KML file exceeds the file size limits of KmlLayer.",
+  "kmlUnknown" : "The KML file failed to load for an unknown reason.",
+  "msgApiV2" : "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear blog/website owner,<br />It looks like your webpage has reference to the older Google API v2, in addition to the API v3 used by Comprehensive Google Map! An example of plugin using the older API v2, can be jquery.gmap plugin.<br /><br />Please disable conflicting plugin(s). In the meanwhile, map generation is aborted!",
+  "msgMissingMarkers" : "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear blog/website owner,<br />You did not specify any marker locations for the Google map! Please check the following when adding marker locations:<br /><b>[a]</b> In the shortcode builder, did you enter location(s) and clicked the Add button before generating shortcode?<br /><b>[b]</b> In the widget, did you enter location(s) and clicked the Add button before clicking Save?<br /><br />Please revisit and reconfigure your widget or shortcode configuration. The map requires at least one marker location to be added..",
+  "msgNoGoogle" : "<b>ATTENTION</b>!(by Comprehensive Google Map Plugin)<br /><br />Dear blog/website owner,<br />It looks like Google map API could not be reached. Map generation was aborted!<br /><br />Please check that Google API script was loaded in the HTML source of your web page"
+}

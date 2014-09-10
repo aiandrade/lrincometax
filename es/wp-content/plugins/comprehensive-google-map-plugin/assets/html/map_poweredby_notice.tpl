@@ -1,0 +1,1 @@
+<div style="width: DIRECTIONS_WIDTH_TOKENpx !important; display: none" class="powered-by"><a target="_blank" href="http://wordpress.org/extend/plugins/comprehensive-google-map-plugin/">Powered by Comprehensive Google Map plugin</a></div>
